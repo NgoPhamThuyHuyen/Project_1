@@ -1,0 +1,11 @@
+- Hệ thống băng truyền sử dụng 3 cảm biến hồng ngoại (trên, giữa, dưới) để đếm chính xác số sản phẩm và thùng.
+
+	+ Cảm biến dưới: Phát hiện khi sản phẩm bắt đầu đi qua và đo thời gian sản phẩm che cảm biến.
+
+	+ Cảm biến giữa & trên: Phát hiện sản phẩm chồng theo chiều cao (2 hoặc 3 lớp).
+
+	+ Phân tích thời gian che của cảm biến dưới: Xác định trường hợp sản phẩm nối liền nhau theo chiều dài.
+
+- Khi sản phẩm rời cảm biến dưới, hệ thống kết hợp dữ liệu từ ba cảm biến và thời gian che để tính số sản phẩm thực tế (1, 2 hoặc 3).
+
+- Sau đó, số sản phẩm được cộng vào tổng, quy đổi ra số thùng (2 sản phẩm/thùng), hiển thị lên LCD và kích hoạt đèn + còi khi có thùng mới.
