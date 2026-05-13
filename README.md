@@ -1,7 +1,7 @@
 PRODUCT COUNTING SYSTEM
 1. Introduction
 
-A counting system using an infrared obstacle sensor to detect and count products on a conveyor belt, handling cases where products are stacked or stuck together. The system provides immediate feedback through an LCD display, LED indicators, and a buzzer.
+A counting system using an infrared obstacle sensor to detect and count products on a conveyor belt, handling cases where products are stacked or stuck together. The system provides immediate feedback through an LCD display, LED, and a buzzer.
 
 <img width="700" height="440" alt="Mô hình thực tế" src="https://github.com/user-attachments/assets/8ddf79b7-0ff8-4a0a-a451-4a2e2f038f70" />
 
